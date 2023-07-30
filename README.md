@@ -1,6 +1,5 @@
 # Car-Data-Analysis
-![image]([https://user-images.githubusercontent.com/101622691/230891428-6d2f1cb9-9fea-4aea-bfbf-b7243a2fe09f.png](http://clipart-library.com/images/piqKegbrT.jpg))
-
+![image]([[[https://user-images.githubusercontent.com/101622691/230891428-6d2f1cb9-9fea-4aea-bfbf-b7243a2fe09f.png](http://clipart-library.com/images/piqKegbrT.jpg](https://www.marketingmind.in/wp-content/uploads/2018/03/cardekho.jpg](https://www.cardekho.com/mgelectriczone/images/MG-ZS-EV.png))))
 
 The Data is all about the car analysis from CardDekho.com
 
@@ -15,6 +14,8 @@ The following details of cars are included in the dataset:
 6) Seller type
 7) Transmission
 8) Owner
+
+
 The Road Map/Step-to-step process for analysis of the data consists of importing libraries, uploading the data, data preprocessing, Exploratory data analysis(EDA), feature selection, train test split, data scaling, model building, and lastly not the least I have checked the model performance.
 
 Lastly, I have visualized the data using the visualization tool i.e., Tableau which I have uploaded in my Tableau public account and here is the link: https://public.tableau.com/app/profile/aashok.aacharya/viz/CARDATAANALYSIS/CARDATAANALYSIS
