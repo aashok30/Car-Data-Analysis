@@ -1,4 +1,6 @@
 # Car-Data-Analysis
+![image](https://github.com/aashok30/Car-Data-Analysis/assets/101622691/46fcab51-1dc8-4449-8858-5261e1b2b45e)
+
 
 This project centers on a detailed analysis of car data obtained from CarDekho.com. The dataset contains a wealth of information about various cars, including their names, manufacturing years, selling prices, mileage (in kilometers driven), fuel types, seller types, transmission types, and ownership history. The objective of this project is to extract valuable insights and patterns from the data, ultimately leading to informed decisions in the world of automobiles.
 
